@@ -1,26 +1,6 @@
 # cards
 <!DOCTYPE html>
 <html lang="en">
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-        h1 {
-            color: #333;
-            margin-bottom: 40px;
-            font-size: 2.5em;
-        }
-        @keyframes fadeInScale {
-            0% { opacity: 0; transform: scale(0.8) translateY(-20px); }
-            100% { opacity: 1; transform: scale(1) translateY(0); }
-        }
-        #title-container {
-            animation: fadeInScale 1s ease-out 1;
-        }
         #card-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -76,7 +56,7 @@
             transform: translateY(-100%) scale(0.8);
             opacity: 0;
         }
-            .card:hover .card-back {
+        .card:hover .card-back {
             transform: translateY(0) scale(1);
             opacity: 1;
         }
@@ -88,9 +68,6 @@
     </style>
 </head>
 <body>
-    <div id="title-container">
-    </div>
-    <hr>
     <div id="card-grid">
         <div class="card">
             <div class="card-front">What is the core structural language of web content?</div>
