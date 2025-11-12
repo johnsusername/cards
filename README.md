@@ -93,14 +93,6 @@
             <div class="card-front">What CSS feature is designed for one-dimensional layout (rows or columns)?</div>
             <div class="card-back">Flexbox (Flexible Box Module). It makes distributing space among items easier.</div>
         </div>
-        <div class="card">
-            <div class="card-front">What CSS feature is designed for two-dimensional layout (rows and columns)?</div>
-            <div class="card-back">CSS Grid Layout. It allows developers to create complex, responsive layouts with ease.</div>
-        </div>
-        <div class="card">
-            <div class="card-front">What is the protocol used to transfer data over the web?</div>
-            <div class="card-back">HTTP (Hypertext Transfer Protocol). It defines how messages are formatted and transmitted.</div>
-        </div>
     </div>
 </body>
 </html>
