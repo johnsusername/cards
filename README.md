@@ -72,32 +72,36 @@
 <body>
     <div id="card-grid">
         <div class="card">
-            <div class="card-front">What is the core structural language of web content?</div>
-            <div class="card-back">HTML (HyperText Markup Language). It defines the structure of the page.</div>
+            <div class="card-front">what is another name for poker</div>
+            <div class="card-back">texas holdem</div>
         </div>
         <div class="card">
-            <div class="card-front">What is used to control the presentation and styling of web pages?</div>
-            <div class="card-back">CSS (Cascading Style Sheets). It handles colors, fonts, layout, and more.</div>
+            <div class="card-front">what does i tmean to shoot for the moon</div>
+            <div class="card-back">it means to take all the hearts in the hand</div>
         </div>
         <div class="card">
-            <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
-            <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
+            <div class="card-front">waht does it mean to go all in</div>
+            <div class="card-back">bet everything</div>
         </div>
         <div class="card">
-            <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
-            <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
+            <div class="card-front">how much money does the industry make</div>
+            <div class="card-back">billions</div>
         </div>
         <div class="card">
             <div class="card-front">what is the term used when you win an acummulation prize amount</div>
             <div class="card-back">jack pot!!!</div>
         </div>
         <div class="card">
-            <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
-            <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
+            <div class="card-front">what is a famous state for gambling</div>
+            <div class="card-back">navada</div>
         </div>
         <div class="card">
-            <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
-            <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
+            <div class="card-front">what is a famous industry tied to gambling</div>
+            <div class="card-back">horse races</div>
+        </div>
+        <div class="card">
+            <div class="card-front">should you gamble</div>
+            <div class="card-back">no</div>
         </div>
     </div>
 </body>
