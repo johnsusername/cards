@@ -83,10 +83,6 @@
             <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
             <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
         </div>
-        <div class="card">
-            <div class="card-front">What is the Document Object Model (DOM)?</div>
-            <div class="card-back">A programming interface for HTML and XML documents. It represents the page so that programs can change its structure, style, and content.</div>
-        </div>
     </div>
 </body>
 </html>
