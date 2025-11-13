@@ -87,14 +87,6 @@
             <div class="card-front">What is the Document Object Model (DOM)?</div>
             <div class="card-back">A programming interface for HTML and XML documents. It represents the page so that programs can change its structure, style, and content.</div>
         </div>
-        <div class="card">
-            <div class="card-front">What is the benefit of using Semantic HTML tags (e.g., <article>, <header>)?</div>
-            <div class="card-back">They clearly define the meaning and role of the content, which improves accessibility and SEO.</div>
-        </div>
-        <div class="card">
-            <div class="card-front">What CSS feature is designed for one-dimensional layout (rows or columns)?</div>
-            <div class="card-back">Flexbox (Flexible Box Module). It makes distributing space among items easier.</div>
-        </div>
     </div>
 </body>
 </html>
