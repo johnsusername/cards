@@ -88,8 +88,8 @@
             <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
         </div>
         <div class="card">
-            <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
-            <div class="card-back">JavaScript. It allows for complex features and updating content in real-time.</div>
+            <div class="card-front">what is the term used when you win an acummulation prize amount</div>
+            <div class="card-back">jack pot!!!</div>
         </div>
         <div class="card">
             <div class="card-front">What language adds interactivity and dynamic behavior to a website?</div>
